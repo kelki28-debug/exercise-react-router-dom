@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-dom'
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import BMI from './components/BMI/BMI'
 import Calculate from './components/Calculate/Calculate'
 import Transformers from './components/Transform/Transformer'
